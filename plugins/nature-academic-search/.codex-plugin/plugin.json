@@ -1,0 +1,6 @@
+{
+  "name": "nature-academic-search",
+  "version": "1.0.0",
+  "description": "Multi-source academic literature search, citation verification, and reference-management workflows.",
+  "skills": "./skills"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "lithaiv-academic-plugins",
+  "interface": {
+    "displayName": "Lithaiv Academic Plugins"
+  },
+  "plugins": [
+    {
+      "name": "nature-academic-search",
+      "source": {
+        "source": "local",
+        "path": "./plugins/nature-academic-search"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
